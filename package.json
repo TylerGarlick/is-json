@@ -1,7 +1,7 @@
 {
   "name": "@tylergarlick/is-json",
   "version": "1.0.0",
-  "description": "",
+  "description": "Determines whether a string is JSON or not",
   "main": "dist/index.js",
   "typings": "dist/index.d.js",
   "scripts": {
@@ -13,9 +13,18 @@
     "type": "git",
     "url": "git+https://github.com/TylerGarlick/typescript-template.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "json",
+    "is-json",
+    "is-string-json",
+    "parse",
+    "stringify"
+  ],
+  "author": {
+    "name": "Tyler Garlick",
+    "email": "tjgarlick@gmail.com"
+  },
+  "license": "Unlicensed",
   "bugs": {
     "url": "https://github.com/TylerGarlick/typescript-template/issues"
   },
